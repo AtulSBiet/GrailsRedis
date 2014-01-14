@@ -97,13 +97,13 @@ grails {
             // ex: testWhileIdle = true
         }
         timeout = 2000 //default in milliseconds
-        password = "q3gxsltyu91a53zip32ud4260u9vgsgh" //defaults to no password
+        password = "3463lvx2ufjjy4jzu0flpe4ohclrjs3i" //defaults to no password
 
         // requires either host & port combo, or a sentinels and masterName combo
 
         // use a single redis server (use only if nore using sentinel cluster)
-        port = 22743  // port
-        host = "172.16.2.167"
+        port = 7188  // port
+        host = "192.168.2.202"
 
     }
 }
